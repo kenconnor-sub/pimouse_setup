@@ -1,4 +1,5 @@
 #!/bin/bash -xve
+#Written by ken
 
 exec 2> /tmp/setup.log
 
